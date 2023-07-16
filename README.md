@@ -10,9 +10,6 @@ SkyScape-Dynamic_Animations is a project that showcases my skills in creating dy
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-You can see a live demo of the project [here](link-to-your-demo).
 
 ## Features
 
