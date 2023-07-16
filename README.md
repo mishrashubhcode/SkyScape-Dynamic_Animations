@@ -3,12 +3,10 @@
 SkyScape-Dynamic_Animations is a project that showcases my skills in creating dynamic CSS animations and transitions. With smooth and visually appealing effects, this project brings elements to life on a web page.
 
 ## Table of Contents
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 
 ## Features
